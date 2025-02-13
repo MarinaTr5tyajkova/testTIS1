@@ -1,0 +1,22 @@
+{
+    "avtorisation": {
+        "login": "testerEmployer",
+        "password": "Password1"
+      },
+
+    "registration": {
+        "email": "newEmployer@example.com",
+        "password": "newPassword123"
+      },
+
+    "vacancyCreate": {
+        "name": "Junior Developer",
+        "description": "description description description description", 
+        "responsibilities": "responsibilities responsibilities responsibilities"
+
+      },
+
+    "vacancySearch": {
+        "name": "Специалист по развитию цифровой экосистемы"
+    }    
+}
